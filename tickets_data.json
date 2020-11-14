@@ -1,17 +1,17 @@
 [
   {
 		"ticketLevel": "Balcony Level",
-		"ticketInventory": "120",
-		"ticketPrice": "500.00"
+		"ticketInventory": 120,
+		"ticketPrice": 500.00
 	},
 	{
 		"ticketLevel": "Lower Level",
-		"ticketInventory": "52",
-		"ticketPrice": "1200.00"
+		"ticketInventory": 52,
+		"ticketPrice": 1200.00
 	},
 	{
 		"ticketLevel": "Balcony Level",
-		"ticketInventory": "22",
-		"ticketPrice": "4200.00"
+		"ticketInventory": 22,
+		"ticketPrice": 4200.00
 	}
 ]
